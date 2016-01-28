@@ -1,9 +1,24 @@
 
-h2 {
+.projecthead {
   text-align: center;
+  text-decoration: underline;
+  padding-top: 300px;
 }
-.column {
-  padding-top: 100px;
+.projects {
+  padding-top: 25px;
+  font-size: 20px;
   width: 300px;
   float: left;
+}
+body {
+  background-color: lightgray;
+}
+.intro {
+  width: 300px;
+  float: left;
+}
+.container {
+  font-family: times;
+}
+.portland {
 }
