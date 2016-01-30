@@ -2,13 +2,14 @@
 .projecthead {
   text-align: center;
   text-decoration: underline;
-  padding-top: 300px;
+  padding-top: 30px;
 }
 .projects {
-  padding-top: 25px;
+  padding-top: 1px;
   font-size: 20px;
   width: 300px;
   float: left;
+  margin-bottom: 25px;
 }
 body {
   background-color: lightgray;
@@ -18,7 +19,14 @@ body {
   float: left;
 }
 .container {
-  font-family: times;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 .portland {
+}
+.intro1 {
+  width: 600 px;
+  text-align: center;
+}
+.aboutme {
+  margin-left: 300px;
 }
