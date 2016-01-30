@@ -5,27 +5,30 @@
   padding-top: 30px;
 }
 .projects {
-  padding-top: 1px;
+  padding-top: 25px;
   font-size: 20px;
   width: 300px;
   float: left;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
+  margin-left: 70px;
 }
 body {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid black;
   background-color: lightgray;
 }
-.intro {
-  width: 300px;
-  float: left;
-}
+
 .container {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-.portland {
-}
-.intro1 {
-  width: 600 px;
-  text-align: center;
+
+.me {
+  float: left;
+  margin-top: 100px;
+
 }
 .aboutme {
   margin-left: 300px;
