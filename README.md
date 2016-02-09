@@ -9,11 +9,11 @@ links to my projects that I have made.
 
 ##Technologies Used
 
-*HTML
-*CSS
-*Markdown
-*Bootstrap
-*Skeleton
+1. HTML
+2. CSS
+3. Markdown
+4. Bootstrap
+5. Skeleton
 
 ##Legal
 
